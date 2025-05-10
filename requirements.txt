@@ -1,0 +1,4 @@
+streamlit==1.36.0
+qrcode==7.4
+python-barcode==0.14.0
+pillow==10.3.0
