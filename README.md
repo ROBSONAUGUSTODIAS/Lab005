@@ -1,9 +1,9 @@
 Lab005
 
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+Criação do curso/projeto.
 
-Criar, configurar e gerenciar aplicações modernas utilizando serviços PaaS e CaaS da Microsoft Azure.
+Criação, configurar e gerenciar aplicações modernas utilizando serviços PaaS e CaaS da Microsoft Azure.
 
 Realizar deploy de aplicações web e APIs utilizando Azure App Services e Container Apps.
 
