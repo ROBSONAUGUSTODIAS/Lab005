@@ -10,3 +10,6 @@ Realizar deploy de aplicações web e APIs utilizando Azure App Services e Conta
 Monitorar e diagnosticar aplicações usando ferramentas integradas do Azure.
 
 Construir uma aplicação completa com backend em contêiner, armazenando dados na nuvem e com observabilidade configurada.
+
+
+![Minha Imagem Local](./pasta/imagem.png)
